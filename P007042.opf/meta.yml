@@ -3,5 +3,22 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W8LS16854
   title: ཚད་མ་རྣམ་འགྲེལ་གྱི་ཚད་མ་གྲུབ་པའི་ལེའུའི་མཐའ་དཔྱོད།
-  volume: ''
+  volume:
+    efa354cb11ad48b29d5d429c310ea4e6:
+      image_group_id: I8LS16873
+      title: Volume 1 of tshad ma rnam 'grel gyi tshad ma grub pa'i le'u'i mtha' dpyod/
+      volume_number: 1
+      total_pages: 1011
+    25fa03cf55c14b4985a4f783623200ba:
+      image_group_id: I8LS16874
+      title: Volume 2 of tshad ma rnam 'grel gyi tshad ma grub pa'i le'u'i mtha' dpyod/
+      volume_number: 2
+      total_pages: 716
   author: ''
+ebook_metadata:
+  title: ཚད་མ་རྣམ་འགྲེལ་གྱི་ཚད་མ་གྲུབ་པའི་ལེའུའི་མཐའ་དཔྱོད།
+  author: ''
+  sku: P007042
+  cover: cover.jpg
+  layers:
+  - pagination
